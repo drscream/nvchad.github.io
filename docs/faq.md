@@ -4,7 +4,8 @@
 
 ### How to change theme of NvChad?
 
-- Press `<leader>`(which is space by default) + th, then select your theme and press enter, restart nvim and done 👍🏻
+- Copy the examples dir files in the custom dir `lua/custom`, see [Custom config](config/Custom%20config) 
+- Press `<leader>`(which is space by default) + th, then select your theme and press enter, type y (to set the default theme), restart nvim and done 👍🏻
 
 ### My icons aren't working, what should I do?
 
